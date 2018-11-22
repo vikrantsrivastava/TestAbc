@@ -7,7 +7,7 @@ public class MainClass {
 		System.out.println("Hello property : " 
                 + System.getProperty("Hello", "Vikrant2565")); 
 		
-		System.out.println(new Date());
+		
 		
 		System.out.println("vikrant");
 		
@@ -16,6 +16,8 @@ public class MainClass {
 
 			@Override
 			public void run() {
+				
+				MainClass.jk;
 				
 			}
 
