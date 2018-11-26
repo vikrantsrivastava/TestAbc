@@ -4,7 +4,7 @@ public class MainClass {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello property : " 
+		System.out.println("Hello propert : " 
                 + System.getProperty("Hello", "Vikrant2565")); 
 		
 		
